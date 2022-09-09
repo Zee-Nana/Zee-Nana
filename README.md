@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Zee-Nana
+- 👋 Hi, I’m Zainab Abdulraheem
+A passionate full stack web developer from Kano State, Nigeria.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Vue js 3.
+- 💞️ I’m looking to collaborate on anything .
 - 📫 How to reach me zainababdulraheem97@gmail.com
+- ⚡ Fun fact I think I am funny😅
 
 <!---
 Zee-Nana/Zee-Nana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
