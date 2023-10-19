@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Zainab Abdulraheem
 A passionate full stack web developer from Abuja State, Nigeria.
+Currently Residing in Ibadan, Oyo State.
 - 👀 I’m interested in programming.
 - 🌱 I create website using Wordpress CMS.
 - 🌱 I'm currently digging into Action & Filter Hooks.
